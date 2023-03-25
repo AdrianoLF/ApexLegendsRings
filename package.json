@@ -1,0 +1,14 @@
+{
+  "name": "6a02cdbff9a35cb0",
+  "main": "6a02cdbff9a35cb0@672.js",
+  "version": "672.0.0",
+  "homepage": "https://observablehq.com/d/6a02cdbff9a35cb0",
+  "author": {
+    "name": "ggwp",
+    "url": "https://observablehq.com/@ggwp"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
